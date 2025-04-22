@@ -80,7 +80,7 @@ npm run dev
 
 ## 🖼️ Screenshots
 
-<img width="1440" alt="Screenshot 2025-04-22 at 11 50 37 AM" src="https://github.com/user-attachments/assets/4e2ebb4c-182f-495c-a345-8b7e6e72c44e" />
+<img width="840" alt="Screenshot 2025-04-22 at 11 50 37 AM" src="https://github.com/user-attachments/assets/4e2ebb4c-182f-495c-a345-8b7e6e72c44e" />
 
 
 ---
